@@ -1,0 +1,19 @@
+# Android and Gradle build state
+.gradle/
+**/build/
+**/.kotlin/
+android/local.properties
+
+# IDE state
+.idea/
+*.iml
+
+# Native build outputs
+.externalNativeBuild/
+.cxx/
+
+# OS and local tooling files
+.DS_Store
+.claude/worktrees/
+.claude/settings.local.json
+.aider*

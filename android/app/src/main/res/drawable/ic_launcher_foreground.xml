@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="432"
+    android:viewportHeight="432">
+
+    <!-- Continuous loop (infinity/circuit shape) -->
+    <path
+        android:pathData="M156,156 L116,156 L76,196 L76,236 L116,276 L156,276 L276,156 L316,156 L356,196 L356,236 L316,276 L276,276 Z"
+        android:strokeColor="#121A1F"
+        android:strokeWidth="16"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent" />
+
+    <!-- Letter T -->
+    <path
+        android:pathData="M116,196 L156,196 M136,196 L136,236"
+        android:strokeColor="#121A1F"
+        android:strokeWidth="16"
+        android:strokeLineCap="square"
+        android:strokeLineJoin="miter"
+        android:fillColor="@android:color/transparent" />
+
+    <!-- Letter M -->
+    <path
+        android:pathData="M276,236 L276,196 L296,216 L316,196 L316,236"
+        android:strokeColor="#121A1F"
+        android:strokeWidth="16"
+        android:strokeLineCap="square"
+        android:strokeLineJoin="miter"
+        android:fillColor="@android:color/transparent" />
+</vector>
