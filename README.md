@@ -1,10 +1,3 @@
-# README Drafts For Job Applications
-
-These drafts are written for a public portfolio repository. They avoid proprietary
-names, hardcoded device details, internal paths, and internal tool identifiers.
-
-## Draft A: Balanced Technical Portfolio
-
 # TraceMate
 
 TraceMate is a Kotlin/Jetpack Compose Android application with a companion Swift
